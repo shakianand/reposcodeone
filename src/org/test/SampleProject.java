@@ -20,6 +20,7 @@ public class SampleProject {
 		SampleProject s = new SampleProject();
 		s.CourseDetails();
 		s.SeleniumDetails();
+		System.out.println("few lines of code appeneded");
 		
 	}
 
