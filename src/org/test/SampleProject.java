@@ -25,7 +25,11 @@ public class SampleProject {
 		SampleProject s = new SampleProject();
 		s.CourseDetails();
 		s.SeleniumDetails();
+
 		s.PythonDetails();
+
+		System.out.println("few lines of code appeneded");
+
 		
 	}
 
