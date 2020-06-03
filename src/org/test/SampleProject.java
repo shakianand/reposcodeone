@@ -15,12 +15,21 @@ public class SampleProject {
 
 	}
 	
+	private void PythonDetails()
+	{
+		System.out.println("Python Started");
+	}
+	
 	public static void main(String[] args) {
 		
 		SampleProject s = new SampleProject();
 		s.CourseDetails();
 		s.SeleniumDetails();
+
+		s.PythonDetails();
+
 		System.out.println("few lines of code appeneded");
+
 		
 	}
 
